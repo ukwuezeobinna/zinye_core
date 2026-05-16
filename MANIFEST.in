@@ -1,0 +1,2 @@
+include requirements.txt
+recursive-include zinye_core *.json *.csv *.html *.js *.css *.png *.svg *.ico
